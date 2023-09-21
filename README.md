@@ -1,6 +1,6 @@
-# The  MoneyMax
+# The  wyzXpense
 
-## MoneyMax is an Income and Expenses Tracking Web App
+## wyzXpense is an Income and Expenses Tracking Web App
 
 This is a web application for tracking income and expenses. It allows users to manage their financial transactions, categorize income and expenses, and generate reports.
 
@@ -25,7 +25,7 @@ This is a web application for tracking income and expenses. It allows users to m
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Monemax94/money_max.git`
+1. Clone the repository: `git clone https://github.com/wisdomoo/wyzXpense.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Set up a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
