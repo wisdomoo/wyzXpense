@@ -97,7 +97,7 @@ class RegisterationView(View):
                 email_subject = 'Activate your account'
                 
                 email = EmailMessage(
-                    email_subject, email_body, "noreply@moneymax.com",
+                    email_subject, email_body, "noreply@wisdomokoroafor13@gmail.com",
                     [email],
                 )
                 email.send(fail_silently=False)
